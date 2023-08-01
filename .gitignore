@@ -254,3 +254,4 @@ paket-files/
 src/TravelApp.Web.Mvc/secrets.json
 src/TravelApp.Web.Host/secrets.json
 src/TravelApp.Migrator/secrets.json
+/src/TravelApp.Web.Host/App_Data/Logs/Logs.txt
